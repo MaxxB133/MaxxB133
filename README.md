@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Account Lockouts Using Windows Active Directory](https://github.com/MaxxB133/osticket-prereqs)
+  - [Account Lockouts Using Windows Active Directory](https://github.com/MaxxB133/account-lockouts-using-active-directory)
 
 <h2>🤳Connect with me:</h2>
 
